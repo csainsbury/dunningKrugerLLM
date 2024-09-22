@@ -1,0 +1,7 @@
+# build docker container:
+docker build -t multiollama .
+
+# run
+docker run --gpus all -it --rm -v $(pwd):/workspace -v ./persistent:/workspace/data multiollama
+
+
