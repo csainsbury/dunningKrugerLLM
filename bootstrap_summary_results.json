@@ -1,0 +1,134 @@
+{
+  "qwen2.5:14b": {
+    "confidence_mean": 77.0,
+    "confidence_ci": [
+      70.0,
+      85.0
+    ],
+    "accuracy_mean": 57.6,
+    "accuracy_ci": [
+      50.0,
+      64.0
+    ]
+  },
+  "qwen2.5:7b": {
+    "confidence_mean": 84.6,
+    "confidence_ci": [
+      19.900000000000002,
+      95.0
+    ],
+    "accuracy_mean": 63.8,
+    "accuracy_ci": [
+      54.9,
+      73.1
+    ]
+  },
+  "qwen2.5:3b": {
+    "confidence_mean": 65.7,
+    "confidence_ci": [
+      1.0,
+      88.875
+    ],
+    "accuracy_mean": 44.6,
+    "accuracy_ci": [
+      38.45,
+      54.20000000000001
+    ]
+  },
+  "qwen2.5:1.5b": {
+    "confidence_mean": 60.3,
+    "confidence_ci": [
+      1.0,
+      97.75
+    ],
+    "accuracy_mean": 41.6,
+    "accuracy_ci": [
+      34.45,
+      53.55
+    ]
+  },
+  "mistral-small:latest": {
+    "confidence_mean": 57.6,
+    "confidence_ci": [
+      12.025,
+      73.875
+    ],
+    "accuracy_mean": 60.0,
+    "accuracy_ci": [
+      50.9,
+      66.0
+    ]
+  },
+  "mistral-nemo:latest": {
+    "confidence_mean": 84.0,
+    "confidence_ci": [
+      77.25,
+      85.0
+    ],
+    "accuracy_mean": 63.8,
+    "accuracy_ci": [
+      57.99999999999999,
+      70.65
+    ]
+  },
+  "gemma2:27b": {
+    "confidence_mean": 20.0,
+    "confidence_ci": [
+      20.0,
+      20.0
+    ],
+    "accuracy_mean": 72.4,
+    "accuracy_ci": [
+      66.45,
+      83.75
+    ]
+  },
+  "gemma2:9b": {
+    "confidence_mean": 70.0,
+    "confidence_ci": [
+      70.0,
+      70.0
+    ],
+    "accuracy_mean": 68.8,
+    "accuracy_ci": [
+      64.45,
+      72.0
+    ]
+  },
+  "gemma2:2b": {
+    "confidence_mean": 58.5,
+    "confidence_ci": [
+      20.0,
+      90.0
+    ],
+    "accuracy_mean": 46.2,
+    "accuracy_ci": [
+      38.9,
+      54.650000000000006
+    ]
+  },
+  "llama3.1:8b": {
+    "confidence_mean": 8.0,
+    "confidence_ci": [
+      0.0,
+      20.0
+    ],
+    "accuracy_mean": 42.6,
+    "accuracy_ci": [
+      36.45,
+      48.0
+    ]
+  },
+  "Claude 3.5 Sonnet": {
+    "confidence_mean": 6.9,
+    "confidence_ci": [
+      1.0,
+      46.72500000000002
+    ],
+    "accuracy_mean": 75.0,
+    "accuracy_ci": [
+      72.0,
+      79.55
+    ]
+  }
+}
